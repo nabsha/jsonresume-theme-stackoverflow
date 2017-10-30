@@ -169,6 +169,12 @@
   ],
   "awards": [
     {
+      "title": "Hack the Dot",
+      "date": "2017-03-25",
+      "awarder": "Deloitte Innovation",
+      "summary": "We developed GoAgile, An intellegent assistant that participates in daily standup and updates JIRA board using speech processing, natural language processing and some glue logic"
+    }
+    {
       "title": "1st Prize 13th All Pakistan A. Q. Khan Software Competition ",
       "date": "2002-07-01",
       "awarder": "A.Q. Khan Organization",
