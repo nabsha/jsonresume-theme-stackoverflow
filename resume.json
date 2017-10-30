@@ -3,7 +3,7 @@
     "name": "Nabeel Shaheen",
     "label": "Integration Consultant",
     "picture": "",
-    "email": "nabsha [ @ ] gmail [ dot ] com",
+    "email": "nabsha@gmail.com",
     "phone": "0416648428",
     "website": "https://nabsha.wordpress.com",
     "summary": "Integration Consultant with 13+ years of design and development experience with emphasis on results, industry standards and best practices. Demonstrated track record of building enterprise java applications from service interface/contract definition to deployment. ",
@@ -29,6 +29,9 @@
         "network": "GitLab",
         "username": "nabsha",
         "url": "https://gitlab.com/nabsha"
+      },
+      {
+        "url": "https://ns-resume.herokuapp.com/resume.pdf"
       }
     ]
   },
@@ -37,8 +40,7 @@
       "company": "Deloitte Australia",
       "position": "Senior Consultant",
       "website": "https://platform.deloitte.com.au/",
-      "startDate": "2016-10",
-      "endDate": "",
+      "startDate": "2016-10-01",
       "summary": "",
       "highlights": [
         "Involved in Solution Architecture, API Design and Implementation",
@@ -51,8 +53,8 @@
       "company": "The Marlo Group",
       "position": "Senior Integration Consultant",
       "website": "http://www.themarlogroup.com.au/",
-      "startDate": "2015-10",
-      "endDate": "2016-09",
+      "startDate": "2015-10-01",
+      "endDate": "2016-09-01",
       "summary": "",
       "highlights": [
         "Development Lead on NBN projects",
@@ -67,8 +69,8 @@
       "company": "DGiT Consultants Ltd",
       "position": "Senior Integration Engineer",
       "website": "http://www.dgitsystems.com/",
-      "startDate": "2014-09",
-      "endDate": "2015-09",
+      "startDate": "2014-09-01",
+      "endDate": "2015-09-01",
       "summary": "",
       "highlights": [
         "Develop and maintain Telflow (www.telflow.com)",
@@ -83,10 +85,10 @@
     },
     {
       "company": "Mobily – Etihad Etisalat Co.",
-      "position": "Principal Specialist",
+      "position": "Principal Specialist1",
       "website": "http://mobily.com.sa/",
-      "startDate": "03-2009",
-      "endDate": "2014-09",
+      "startDate": "2013-09-01",
+      "endDate": "2014-09-01",
       "summary": "",
       "highlights": [
         "Java Development Team Lead",
@@ -104,8 +106,8 @@
       "company": "Streaming Networks (Pvt.) Ltd.",
       "position": "Senior Software Engineer",
       "website": "http://www.streaming-networks.com/",
-      "startDate": "2007-02",
-      "endDate": "2009-01",
+      "startDate": "2007-02-01",
+      "endDate": "2009-01-01",
       "summary": "",
       "highlights": [
         "Ported and developed audio codecs for devices ranging from VoIP Phones(6-8KHz) to Personal Media Recorders(44KHz)",
@@ -126,8 +128,8 @@
       "company": "COMSATS Institute of Information Technology Islamabad, Pakistan",
       "position": "Research Assistant/Lecturer",
       "website": "https://www.comsats.edu.pk/",
-      "startDate": "2004-11",
-      "endDate": "2007-01",
+      "startDate": "2004-11-01",
+      "endDate": "2007-01-01",
       "summary": "",
       "highlights": [
         "Teaching Courses in Computer Architecture, System Programming at graduate and post graduate level",
@@ -148,8 +150,8 @@
       "institution": "Sir Syed University Of Engineering & Technology, Pakistan",
       "area": "Computer Engineering",
       "studyType": "Bachelor Of Science",
-      "startDate": "1999",
-      "endDate": "2003",
+      "startDate": "1999-01-01",
+      "endDate": "2003-01-01",
       "gpa": "",
       "courses": []
     },
@@ -157,8 +159,8 @@
       "institution": "University Of Hertfordshire, Herts, UK",
       "area": "Computer Engineering",
       "studyType": "Masters Of Science",
-      "startDate": "2003-07",
-      "endDate": "2004-07",
+      "startDate": "2003-07-01",
+      "endDate": "2004-07-01",
       "gpa": "",
       "courses": []
     }
@@ -166,31 +168,31 @@
   "awards": [
     {
       "title": "1st Prize 13th All Pakistan A. Q. Khan Software Competition ",
-      "date": "2002-07",
+      "date": "2002-07-01",
       "awarder": "A.Q. Khan Organization",
       "summary": "We Developed an Integrated Communication Application called GRICS for this Competition held in July 2002, Islamabad."
     },
     {
       "title": "2nd Prize in 5th All Pakistan Inter-University Software Contest",
-      "date": "2002-03",
+      "date": "2002-03-01",
       "awarder": "Computer Science Society Of IIUI",
       "summary": "We Developed an Integrated Communication Application called GRICS for this Competition"
     },
     {
       "title": "2nd Prize in AMICS 2002",
-      "date": "2002-01",
+      "date": "2002-01-01",
       "awarder": "IQRA University",
       "summary": "We Developed a Communication Application called COM Sphere for this Competition held in January 2002, Karachi."
     },
     {
       "title": "4th Prize in PROCOM 2001",
-      "date": "2001",
+      "date": "2001-01-01",
       "awarder": "NUCES-FAST",
       "summary": "We Developed a Communication Application called COM Sphere for this Competition"
     },
     {
       "title": "1st Prize in 4th All Pakistan Inter-University Software Contest ",
-      "date": "2001-04",
+      "date": "2001-04-01",
       "awarder": "Computer Science Society, IIUI",
       "summary": "We Developed a Server Application called WAP Sphere for this Competition"
     }

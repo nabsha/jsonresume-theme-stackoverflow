@@ -9,7 +9,7 @@
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "resume serve -p $PORT"
+    "start": "resume export --format pdf resume.pdf && resume serve -p $PORT"
   },
   "license": "MIT",
   "main": "index.js",
