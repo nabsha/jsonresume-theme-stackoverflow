@@ -17,7 +17,7 @@
     "profiles": [
       {
         "network": "LinkedIn",
-        "username": "",
+        "username": "nabsha",
         "url": "https://www.linkedin.com/in/integration-consultant"
       },
       {
@@ -32,7 +32,8 @@
       },
       {
         "network": "pdf",
-        "url": "https://ns-resume.herokuapp.com/resume.pdf"
+        "username": "Download pdf",
+        "url": "/resume.pdf"
       }
     ]
   },
