@@ -36,14 +36,14 @@
     {
       "company": "Deloitte Australia",
       "position": "Senior Consultant",
-      "website": "https://www2.deloitte.com/au/en.html",
+      "website": "https://platform.deloitte.com.au/",
       "startDate": "2016-10",
       "endDate": "",
       "summary": "",
       "highlights": [
         "Involved in Solution Architecture, API Design and Implementation",
         "Liaise with project stake holders at multiple levels",
-        "Practices: Agile, Code Reviews, ",
+        "Practices: Agile, Contract first APIs, Documentation as Code, Code Reviews",
         "Technologies: Mulesoft, AWS, Docker, Kubernetes, Java"
       ]
     },
