@@ -31,6 +31,7 @@
         "url": "https://gitlab.com/nabsha"
       },
       {
+        "network": "pdf",
         "url": "https://ns-resume.herokuapp.com/resume.pdf"
       }
     ]
@@ -85,9 +86,9 @@
     },
     {
       "company": "Mobily – Etihad Etisalat Co.",
-      "position": "Principal Specialist1",
+      "position": "Principal Specialist",
       "website": "http://mobily.com.sa/",
-      "startDate": "2013-09-01",
+      "startDate": "2009-03-01",
       "endDate": "2014-09-01",
       "summary": "",
       "highlights": [
