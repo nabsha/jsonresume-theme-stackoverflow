@@ -7,10 +7,15 @@
     "type": "git",
     "url": "https://github.com/francescoes/jsonresume-theme-stackoverflow"
   },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "resume serve -p $PORT"
+  },
   "license": "MIT",
   "main": "index.js",
   "dependencies": {
     "handlebars": "^4.0.10",
-    "moment": "^2.18.1"
+    "moment": "^2.18.1",
+    "resume-cli": "^0.4.14"
   }
 }

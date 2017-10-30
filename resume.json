@@ -1,0 +1,263 @@
+{
+  "basics": {
+    "name": "Nabeel Shaheen",
+    "label": "Integration Consultant",
+    "picture": "",
+    "email": "nabsha [ @ ] gmail [ dot ] com",
+    "phone": "0416648428",
+    "website": "https://nabsha.wordpress.com",
+    "summary": "Integration Consultant with 13+ years of design and development experience with emphasis on results, industry standards and best practices. Demonstrated track record of building enterprise java applications from service interface/contract definition to deployment. ",
+    "location": {
+      "address": "",
+      "postalCode": "3006",
+      "city": "Melbourne",
+      "countryCode": "AU",
+      "region": "Victoria"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "",
+        "url": "https://www.linkedin.com/in/integration-consultant"
+      },
+      {
+        "network": "GitHub",
+        "username": "nabsha",
+        "url": "https://github.com/nabsha"
+      },
+      {
+        "network": "GitLab",
+        "username": "nabsha",
+        "url": "https://gitlab.com/nabsha"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Deloitte Australia",
+      "position": "Senior Consultant",
+      "website": "https://www2.deloitte.com/au/en.html",
+      "startDate": "2016-10",
+      "endDate": "",
+      "summary": "",
+      "highlights": [
+        "Involved in Solution Architecture, API Design and Implementation",
+        "Liaise with project stake holders at multiple levels",
+        "Practices: Agile, Code Reviews, ",
+        "Technologies: Mulesoft, AWS, Docker, Kubernetes, Java"
+      ]
+    },
+    {
+      "company": "The Marlo Group",
+      "position": "Senior Integration Consultant",
+      "website": "http://www.themarlogroup.com.au/",
+      "startDate": "2015-10",
+      "endDate": "2016-09",
+      "summary": "",
+      "highlights": [
+        "Development Lead on NBN projects",
+        "Liaise with Project Managers, Designers and Test leads on Sprint tasks",
+        "Involved in Design review, Programming, Code Reviews and Test Support",
+        "Languages: Java, Groovy, Python",
+        "Stack: Apache Camel, ActiveMQ, Karaf, Fuse, Splunk, IBM WebSphereMQ, Citrus Framework",
+        "Tools: Maven, Git, Go CI, Mercurial, Jmeter, Wireshark, IBM RT"
+      ]
+    },
+    {
+      "company": "DGiT Consultants Ltd",
+      "position": "Senior Integration Engineer",
+      "website": "http://www.dgitsystems.com/",
+      "startDate": "2014-09",
+      "endDate": "2015-09",
+      "summary": "",
+      "highlights": [
+        "Develop and maintain Telflow (www.telflow.com)",
+        "JBoss Fuse ESB container monitoring, optimization and low-level application debugging",
+        "Component and Application Integration for Apache Camel based application",
+        "Data transformation and mapping with external systems.",
+        "Telflow Integration Layer: Apache Camel, ActiveMQ, Karaf",
+        "Integration Technologies: JMS, Web services(CXF), SEDA, REST, Custom Camel Components",
+        "Persistence: Elasticsearch, MongoDB and integration with Camel",
+        ""
+      ]
+    },
+    {
+      "company": "Mobily – Etihad Etisalat Co.",
+      "position": "Principal Specialist",
+      "website": "http://mobily.com.sa/",
+      "startDate": "03-2009",
+      "endDate": "2014-09",
+      "summary": "",
+      "highlights": [
+        "Java Development Team Lead",
+        "Participate in Telco Product Development with stake holders",
+        "Get involved in feasibility and requirement analysis as domain expert",
+        "Apollo11 → An OSGi based, flexible, configurable, modular, Service Fulfillment Stack with business rule engines, BPMN workflows engine and enterprise integration. Technologies used Java 7, Spring Framework, Hibernate, Apache Felix, Apache Karaf, Oracle 11g, JBoss Drools, Activiti",
+        "Unicore → is a BST logic library that abstracts the target NEI from the business logic by exposing a unified interface to BST",
+        "Netmon → A telecom network monitoring application that integrates with any activation layer(like Comptel NEMO,EMA) to get real-time network status and exposing them for 3rd party integration. Current Integration intercepts Comptel NEMO JMX notifications and exposing thru IBM Websphere MQ. Technologies used Java 7, Spring Framework v3.0, Spring JMS, JMX, Spring JDBC, CORBA.",
+        "Network Integrations → vmware vCloud integration, Ericsson (MINSAT, AIR,UCIP,ACIP,HLR,HSS), Huawei(HLR, HSS), Hosted Unified Communications, mVPN)",
+        "Mobily Service Fulfillment Transformation Project(In-house product to Comptel InstantLink)",
+        "Subscription Renewal System for Prepaid Mobile subscribers"
+      ]
+    },
+    {
+      "company": "Streaming Networks (Pvt.) Ltd.",
+      "position": "Senior Software Engineer",
+      "website": "http://www.streaming-networks.com/",
+      "startDate": "2007-02",
+      "endDate": "2009-01",
+      "summary": "",
+      "highlights": [
+        "Ported and developed audio codecs for devices ranging from VoIP Phones(6-8KHz) to Personal Media Recorders(44KHz)",
+        "VLIW RISC Assembly-level development for audio codecs, FFT blocks and other signal processing filters for time/space optimization.",
+        "Developing graphic libraries for PSP, iPhone based on SDL.",
+        "Developed complete MPEG-4/2 AAC-LC Encoder; achieving audio quality similar to Nero's AAC Encoder and better than FAAC on most audio test samples at 128Kbps and 64Kbps.",
+        "Optimized MPEG-4/2 AAC-LC Encoder to operate under 24 MHz (peak) with all the encoding tools enabled, on Trimedia PNX1500 processor.",
+        "Implemented and fixed various Psychoacoustic models in Matlab and ANSI C for quality evaluation including MPEG-4 Psychoacoustic Model 2.",
+        "mplemented & Optimized Complex & Real FFT Routines in ANSI C for reducing encoder complexity for Trimedia Platform",
+        "Developed Audio Quality Testing Environment for audio encoders. ",
+        "Developed graphics library for PSP (Playstation Portable) platform using SDL and a playback application using PSP H.264 hardware decoder",
+        "Languages:ANSI C/C++, SQLite, VLIW Assembly Instruction Set for Trimedia, Shell scripting, VC++ 6.0",
+        "Debuggers:GNU prof, Visual C profile",
+        "Platforms:Trimedia Multimedia Processors, PNX-1500/1700, Trimedia Streaming Software Architecture (TSSA), Phillips Nexperia Development Kit (NDK v5.x), PSP SDK"
+      ]
+    },
+    {
+      "company": "COMSATS Institute of Information Technology Islamabad, Pakistan",
+      "position": "Research Assistant/Lecturer",
+      "website": "https://www.comsats.edu.pk/",
+      "startDate": "2004-11",
+      "endDate": "2007-01",
+      "summary": "",
+      "highlights": [
+        "Teaching Courses in Computer Architecture, System Programming at graduate and post graduate level",
+        "Conducting research in Distributed Computing/Parallel Processing",
+        "Developing programs for High Performance Cluster Computing Lab",
+        "Supervising Final Year Projects for Computer Engineering students ",
+        "Developed Numerical Weather Modeling Solution for Pakistan Meteorology Department using HPC Cluster.",
+        "Developed HPC Cluster lab for the course of Distributed Computing and Parallel Programming ",
+        "Languages: C/C++, Java, Assembly",
+        "Technologies:Parallel Processing, OSCAR Clustering Software, ROCKS Clustering Software",
+        "APIs:MPI, PVM, LAM"
+      ]
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Sir Syed University Of Engineering & Technology, Pakistan",
+      "area": "Computer Engineering",
+      "studyType": "Bachelor Of Science",
+      "startDate": "1999",
+      "endDate": "2003",
+      "gpa": "",
+      "courses": []
+    },
+    {
+      "institution": "University Of Hertfordshire, Herts, UK",
+      "area": "Computer Engineering",
+      "studyType": "Masters Of Science",
+      "startDate": "2003-07",
+      "endDate": "2004-07",
+      "gpa": "",
+      "courses": []
+    }
+  ],
+  "awards": [
+    {
+      "title": "1st Prize 13th All Pakistan A. Q. Khan Software Competition ",
+      "date": "2002-07",
+      "awarder": "A.Q. Khan Organization",
+      "summary": "We Developed an Integrated Communication Application called GRICS for this Competition held in July 2002, Islamabad."
+    },
+    {
+      "title": "2nd Prize in 5th All Pakistan Inter-University Software Contest",
+      "date": "2002-03",
+      "awarder": "Computer Science Society Of IIUI",
+      "summary": "We Developed an Integrated Communication Application called GRICS for this Competition"
+    },
+    {
+      "title": "2nd Prize in AMICS 2002",
+      "date": "2002-01",
+      "awarder": "IQRA University",
+      "summary": "We Developed a Communication Application called COM Sphere for this Competition held in January 2002, Karachi."
+    },
+    {
+      "title": "4th Prize in PROCOM 2001",
+      "date": "2001",
+      "awarder": "NUCES-FAST",
+      "summary": "We Developed a Communication Application called COM Sphere for this Competition"
+    },
+    {
+      "title": "1st Prize in 4th All Pakistan Inter-University Software Contest ",
+      "date": "2001-04",
+      "awarder": "Computer Science Society, IIUI",
+      "summary": "We Developed a Server Application called WAP Sphere for this Competition"
+    }
+  ],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Enterprise Integration",
+      "level": "Master",
+      "keywords": [
+        "Mulesoft Anypoint Platform",
+        "Apache Camel",
+        "Apache CXF",
+        "ActiveMQ",
+        "Spring Integration",
+        "JAX-RS",
+        "Websphere MQ"
+      ]
+    },
+    {
+      "name": "Data Transformation/Mapping",
+      "level": "Master",
+      "keywords": [
+        "XML",
+        " Jaxb",
+        "XPath",
+        "Orika",
+        "Smooks",
+        "Dozer",
+        "JSON",
+        "Jsonpath",
+        "XSLT"
+      ]
+    },
+    {
+      "name": "Data Persistence Applications",
+      "level": "Master",
+      "keywords": [
+        "Oracle 11g",
+        "MongoDB",
+        "Elasticsearch",
+        "MySQL"
+      ]
+    },
+    {
+      "name": "Programming Languages",
+      "level": "",
+      "keywords": [
+        "Java",
+        "Groovy",
+        "Python",
+        "C/C++",
+        "Javascript"
+      ]
+    },
+    {
+      "name": "Frameworks",
+      "level": "",
+      "keywords": [
+        "Osgi",
+        "Spring Core",
+        "Spring Integration",
+        "Spring Batch"
+      ]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": []
+}
