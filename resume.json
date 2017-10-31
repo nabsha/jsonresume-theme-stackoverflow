@@ -6,10 +6,10 @@
     "email": "nabsha@gmail.com",
     "phone": "0416648428",
     "website": "https://nabsha.wordpress.com",
-    "summary": "Integration Consultant with 13+ years of design and development experience with emphasis on results, industry standards and best practices. Demonstrated track record of building enterprise java applications from service interface/contract definition to deployment. ",
+    "summary": "Integration Consultant with 13+ years of design and development experience with emphasis on results, industry standards and best practices. Demonstrated track record of successfully leading team on integration projects from inception to deployment. Skilled in translating business requirements to working solutions under constrained resources with special attention to solution design and business alignment.",
     "location": {
       "address": "",
-      "postalCode": "3006",
+      "postalCode": "3802",
       "city": "Melbourne",
       "countryCode": "AU",
       "region": "Victoria"
@@ -43,12 +43,15 @@
       "position": "Senior Consultant",
       "website": "https://platform.deloitte.com.au/",
       "startDate": "2016-10-01",
-      "summary": "",
+      "summary": "Worked at Monash University to stengthen their integration capability by extending their Mulesoft based integration platform. Multiple projects were delivered using Mulesoft, AWS, Kuberenetes stack. Building tools and defining best-practices along the way to harness full potential of the solution",
       "highlights": [
-        "Involved in Solution Architecture, API Design and Implementation",
-        "Liaise with project stake holders at multiple levels",
-        "Practices: Agile, Contract first APIs, Documentation as Code, Code Reviews",
-        "Technologies: Mulesoft, AWS, Docker, Kubernetes, Java"
+        "Gather detailed business requirements and use cases, and translate technical specifications into product requirements.",
+        "Develop flexible data models for HAL-compliant Restful APIs to facilitate evolving requirements.",
+        "Developed GraphDB based Rest API catalog for microservices dependency analysis",
+        "Established centralized method for maintaining data mapping across platform",
+        "Suggest architectural improvements, design and integration solutions.",
+        "Practices: Agile, Contract first APIs, Documentation as Code, Code Reviews.",
+        "Technologies: Mulesoft, Kuberenetes, AWS, Java, RAML"
       ]
     },
     {
@@ -57,14 +60,13 @@
       "website": "http://www.themarlogroup.com.au/",
       "startDate": "2015-10-01",
       "endDate": "2016-09-01",
-      "summary": "",
+      "summary": "Worked on NBN project, building the iB2B platform using Redhat Fuse stack, to deliver complex business requirements under strict timelines. Managed onshore and offshore teams in multiple timezones.",
       "highlights": [
-        "Development Lead on NBN projects",
+        "Technical Delivery Lead on NBN project",
         "Liaise with Project Managers, Designers and Test leads on Sprint tasks",
-        "Involved in Design review, Programming, Code Reviews and Test Support",
+        "Involved in Solution design, Implementation, Code Reviews and Test Support",
         "Languages: Java, Groovy, Python",
-        "Stack: Apache Camel, ActiveMQ, Karaf, Fuse, Splunk, IBM WebSphereMQ, Citrus Framework",
-        "Tools: Maven, Git, Go CI, Mercurial, Jmeter, Wireshark, IBM RT"
+        "Technologies: Apache Camel, ActiveMQ, Karaf, Redhat Fuse, Splunk, IBM WebSphereMQ, Citrus Framework"
       ]
     },
     {
@@ -73,16 +75,14 @@
       "website": "http://www.dgitsystems.com/",
       "startDate": "2014-09-01",
       "endDate": "2015-09-01",
-      "summary": "",
+      "summary": "Developed and maintain Telflow (www.telflow.com) using Redhat Fuse stack.",
       "highlights": [
-        "Develop and maintain Telflow (www.telflow.com)",
         "JBoss Fuse ESB container monitoring, optimization and low-level application debugging",
         "Component and Application Integration for Apache Camel based application",
         "Data transformation and mapping with external systems.",
         "Telflow Integration Layer: Apache Camel, ActiveMQ, Karaf",
         "Integration Technologies: JMS, Web services(CXF), SEDA, REST, Custom Camel Components",
-        "Persistence: Elasticsearch, MongoDB and integration with Camel",
-        ""
+        "Persistence: Elasticsearch, MongoDB and integration with Camel"
       ]
     },
     {
@@ -91,14 +91,10 @@
       "website": "http://mobily.com.sa/",
       "startDate": "2009-03-01",
       "endDate": "2014-09-01",
-      "summary": "",
+      "summary": "Worked as Team lead to enhance provisioning capabilities on Telecommunication Networks. ",
       "highlights": [
-        "Java Development Team Lead",
         "Participate in Telco Product Development with stake holders",
-        "Get involved in feasibility and requirement analysis as domain expert",
-        "Apollo11 → An OSGi based, flexible, configurable, modular, Service Fulfillment Stack with business rule engines, BPMN workflows engine and enterprise integration. Technologies used Java 7, Spring Framework, Hibernate, Apache Felix, Apache Karaf, Oracle 11g, JBoss Drools, Activiti",
-        "Unicore → is a BST logic library that abstracts the target NEI from the business logic by exposing a unified interface to BST",
-        "Netmon → A telecom network monitoring application that integrates with any activation layer(like Comptel NEMO,EMA) to get real-time network status and exposing them for 3rd party integration. Current Integration intercepts Comptel NEMO JMX notifications and exposing thru IBM Websphere MQ. Technologies used Java 7, Spring Framework v3.0, Spring JMS, JMX, Spring JDBC, CORBA.",
+        "Get involved in feasibility and requirement analysis as mobile networks domain expert",
         "Network Integrations → vmware vCloud integration, Ericsson (MINSAT, AIR,UCIP,ACIP,HLR,HSS), Huawei(HLR, HSS), Hosted Unified Communications, mVPN)",
         "Mobily Service Fulfillment Transformation Project(In-house product to Comptel InstantLink)",
         "Subscription Renewal System for Prepaid Mobile subscribers"
@@ -110,7 +106,7 @@
       "website": "http://www.streaming-networks.com/",
       "startDate": "2007-02-01",
       "endDate": "2009-01-01",
-      "summary": "",
+      "summary": "Worked as Embedded system enginer in C/C++, Assembly and Matlab to build Personal Media Recorder under resource-constrainted Environment",
       "highlights": [
         "Ported and developed audio codecs for devices ranging from VoIP Phones(6-8KHz) to Personal Media Recorders(44KHz)",
         "VLIW RISC Assembly-level development for audio codecs, FFT blocks and other signal processing filters for time/space optimization.",
@@ -208,45 +204,45 @@
   "publications": [],
   "skills": [
     {
-      "name": "Enterprise Integration",
-      "level": "Master",
+      "name": "Solution Architecture",
       "keywords": [
-        "Mulesoft Anypoint Platform",
+        "Microservices Architecture",
+        "Flexible API Design",
+        "Domain-driven Data modelling"
+      ]
+    },
+    {
+      "name": "Enterprise Integration",
+      "keywords": [
+        "Mulesoft Platform",
         "Apache Camel",
         "Apache CXF",
         "ActiveMQ",
-        "Spring Integration",
-        "JAX-RS",
-        "Websphere MQ"
+        "Spring Integration"
       ]
     },
     {
-      "name": "Data Transformation/Mapping",
-      "level": "Master",
+      "name": "Development",
       "keywords": [
-        "XML",
-        " Jaxb",
-        "XPath",
-        "Orika",
-        "Smooks",
-        "Dozer",
-        "JSON",
-        "Jsonpath",
-        "XSLT"
+        "Systems analysis",
+        "Polyglot Developer",
+        "Application Debugging",
+        "Performance optimization",
+        "Infrastructure support",
+        "Hands-on Cloud expertise"
       ]
     },
     {
-      "name": "Data Persistence Applications",
-      "level": "Master",
+      "name": "DevOps",
       "keywords": [
-        "Oracle 11g",
-        "MongoDB",
-        "Elasticsearch",
-        "MySQL"
+        "Docker",
+        "Kuberenetes",
+        "Docker-compose",
+        "monitoring and alerts"
       ]
     },
     {
-      "name": "Programming Languages",
+      "name": "Languages",
       "level": "",
       "keywords": [
         "Java",
@@ -254,16 +250,6 @@
         "Python",
         "C/C++",
         "Javascript"
-      ]
-    },
-    {
-      "name": "Frameworks",
-      "level": "",
-      "keywords": [
-        "Osgi",
-        "Spring Core",
-        "Spring Integration",
-        "Spring Batch"
       ]
     }
   ],
