@@ -39,10 +39,18 @@
   },
   "work": [
     {
+      "company": "Cloud Integrators Pty Ltd.",
+      "position": "Director",
+      "website": "https://www.cloud-integrators.com.au",
+      "startDate": "2018-03-01",
+      "summary": "Providing Integration expertise"
+    },
+    {
       "company": "Deloitte Australia",
       "position": "Senior Consultant",
       "website": "https://platform.deloitte.com.au/",
       "startDate": "2016-10-01",
+      "endDate": "2018-02-26",
       "summary": "Worked at Monash University to stengthen their integration capability by extending their Mulesoft based integration platform. Multiple projects were delivered using Mulesoft, AWS, Kuberenetes stack. Building tools and defining best-practices along the way to harness full potential of the solution",
       "highlights": [
         "Gather detailed business requirements and use cases, and translate technical specifications into product requirements.",
