@@ -49,6 +49,7 @@
       "position": "Integration Consultant",
       "website": "https://www.mlcinsurance.com.au/",
       "startDate": "2018-06-04",
+      "summary": "Working at MLC, as part of integration delivery team, to migrate from legacy financial system to a modern, automated policy management system",
       "highlights": [
         "Integrating financial application using Mulesoft, running on Openshift platform"
       ]
@@ -59,6 +60,7 @@
       "website": "https://www.melbourne.vic.gov.au/",
       "startDate": "2018-02-26",
       "endDate": "2018-05-26",
+      "summary": "Worked at Melbourne City Council to modernise Mulesoft practice and deliver projects for the residents of Melbourne city",
       "highlights": [
         "Developed and managed Cloudhub based Mulesoft platform",
         "Integrated with Salesforce, MDM, ActiveMQ",
