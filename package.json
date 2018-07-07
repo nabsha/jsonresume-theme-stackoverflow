@@ -16,6 +16,7 @@
   "dependencies": {
     "handlebars": "^4.0.10",
     "moment": "^2.18.1",
+    "phantomjs-prebuilt": "^2.1.16",
     "resume-cli": "^0.4.14"
   }
 }

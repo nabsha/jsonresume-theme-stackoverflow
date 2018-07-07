@@ -3,13 +3,13 @@
     "name": "Nabeel Shaheen",
     "label": "Integration Consultant",
     "picture": "",
-    "email": "nabsha@gmail.com",
-    "phone": "0416648428",
+    "email": "nabeel@cloud-integrators.com.au",
+    "phone": "+61 416 648 428",
     "website": "https://nabsha.wordpress.com",
-    "summary": "Integration Consultant with 13+ years of design and development experience with emphasis on results, industry standards and best practices. Demonstrated track record of successfully leading team on integration projects from inception to deployment. Skilled in translating business requirements to working solutions under constrained resources with special attention to solution design and business alignment.",
+    "summary": "Integration Consultant with 13+ years of design and development experience with emphasis on results, industry standards and best practices. Well versed in Mulesoft offerings including Anypoint Platform, API Manager, API Designer, Runtime Manager, etc. Experienced in deployment of Runtime Manager in a variety of combinations including Cloudhub, AWS Platform, Openshift/Kuberenetes and hybrid configurations. ",
     "location": {
       "address": "",
-      "postalCode": "3802",
+      "postalCode": "3000",
       "city": "Melbourne",
       "countryCode": "AU",
       "region": "Victoria"
@@ -40,9 +40,30 @@
   "work": [
     {
       "company": "Cloud Integrators Pty Ltd.",
-      "position": "Director",
+      "position": "Managing Director",
       "website": "https://www.cloud-integrators.com.au",
       "startDate": "2018-03-01"
+    },
+    {
+      "company": "MLC Life Insurance",
+      "position": "Integration Consultant",
+      "website": "https://www.mlcinsurance.com.au/",
+      "startDate": "2018-06-04",
+      "highlights": [
+        "Integrating financial application using Mulesoft, running on Openshift platform"
+      ]
+    },    
+    {
+      "company": "City Of Melbourne",
+      "position": "Integration Consultant",
+      "website": "https://www.melbourne.vic.gov.au/",
+      "startDate": "2018-02-26",
+      "endDate": "2018-05-26",
+      "highlights": [
+        "Developed and managed Cloudhub based Mulesoft platform",
+        "Integrated with Salesforce, MDM, ActiveMQ",
+        "Cloudhub Alerts, End-to-End, automated CI/CD using Atlassian Bamboo"
+      ]
     },
     {
       "company": "Deloitte Australia",
